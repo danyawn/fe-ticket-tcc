@@ -1,4 +1,4 @@
-const BASE_URL = 'https://springbootgcpcr-a6bnbhk5xa-as.a.run.app/'
+const BASE_URL = "https://springbootgcpcr-jcbxz3zpbq-as.a.run.app/"
 
 export default {
     apiLogin : BASE_URL + 'api/auth/login',

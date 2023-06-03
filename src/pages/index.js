@@ -8,7 +8,7 @@ const index = () => {
   console.log('login', user);
   return (
     <div>
-      
+      Done Login
     </div>
   )
 }

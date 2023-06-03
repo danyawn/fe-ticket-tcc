@@ -29,6 +29,11 @@ const AuthProvider = ({ children }) => {
         const initAuth = async () => {
             const storedToken = window.localStorage.getItem(auth.storageTokenKeyName)
             // console.log('stored token', storedToken);
+            // if(!storedToken){
+            //     router.push('/')
+            // }else{
+            //     router.push('/login')
+            // }
             console.log('user', user);
         }
         initAuth()
