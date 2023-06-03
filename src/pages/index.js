@@ -7,7 +7,9 @@ const index = () => {
   console.log('token login', token);
   console.log('login', user);
   return (
-    <div>testing</div>
+    <div>
+      
+    </div>
   )
 }
 
